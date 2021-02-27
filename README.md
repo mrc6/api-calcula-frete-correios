@@ -60,7 +60,7 @@ Mais informações referentes aos Serviços você encontra [aqui](http://ws.corr
 
 ### Exemplo prático
 
-Para calcular o valor do frete de uma encomenda, basta enviar, através do verbo POST, um JSON contendo as informações abaixo para o endpoint ['/v1/price']().  
+Para calcular o valor do frete de uma encomenda, basta enviar, através do verbo POST, um JSON contendo as informações abaixo para o endpoint ['/v1/calc-preco']().  
 (Sim, essa URL precisa de um nome melhor).
 ```
 {
