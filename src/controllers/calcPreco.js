@@ -3,7 +3,6 @@ const { makeRequest } = require('../utils');
 const calcPrecoController = {};
 
 calcPrecoController.calcPreco = async (req, res) => {
-
     const obj = {
         nCdEmpresa: req.body.nCdEmpresa,
         sDsSenha: req.body.sDsSenha,

@@ -66,18 +66,18 @@ Para calcular o valor do frete de uma encomenda, basta enviar, através do verbo
 {
   "nCdEmpresa": "",
   "sDsSenha": "",
-  "nCdServico": "40010",
-  "sCepOrigem": "37410220",
-  "sCepDestino": "05311900",
+  "nCdServico": "04510",
+  "sCepOrigem": "96200110",
+  "sCepDestino": "86181050",
   "nVlPeso": "1",
   "nCdFormato": "1",
-  "nVlComprimento": "20",
-  "nVlAltura": "5",
-  "nVlLargura": "15",
+  "nVlComprimento": "18",
+  "nVlAltura": "9",
+  "nVlLargura": "13.5",
   "nVlDiametro": "0",
   "sCdMaoPropria": "n",
-  "nVlValorDeclarado": "100",
-  "sCdAvisoRecebimento": "n"
+  "nVlValorDeclarado": "0",
+  "sCdAvisoRecebimento": "s"
 }
 
 ```
